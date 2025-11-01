@@ -1,0 +1,29 @@
+<!-- src/app/lightbox/lightbox.component.html -->
+ @if(isOpen){
+<div
+ 
+  class="lightbox-overlay fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90 transition-opacity duration-300"
+  (click)="onOverlayClick($event)"
+>
+  <div class="relative max-w-5xl w-full mx-4">
+    <!-- Botão Fechar -->
+    <button
+      (click)="closeLightbox()"
+      class="absolute top-4 right-6 text-white hover:text-gray-300 transition-colors z-10 p-2 bg-black bg-opacity-50 rounded-full"
+      aria-label="Fechar"
+    >
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </button>
+
+    <!-- Imagem -->
+    <img
+      [src]="imageUrl"
+      alt="Imagem ampliada"
+      class="max-h-screen w-full object-contain rounded-lg shadow-2xl"
+      (click)="$event.stopPropagation()"
+    />
+  </div>
+</div>
+ }
