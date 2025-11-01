@@ -1,12 +1,36 @@
-
+const url = 'https://brazdriver.app.br/chastity/31_10_25/';
 
 const sexta = [
- { src: "https://brazdriver.app.br/photos/img1.jpg", alt: "imagem" },
- { src: "https://brazdriver.app.br/photos/img2.jpg", alt: "imagem" },
- { src: "https://brazdriver.app.br/photos/img3.jpg", alt: "imagem" },
- { src: "https://brazdriver.app.br/photos/img4.jpg", alt: "imagem" },
- { src: "https://brazdriver.app.br/photos/img5.jpg", alt: "imagem" },
- 
+ { src: url + "cc01.jpg", alt: "imagem" },
+ { src: url + "cc02.jpg", alt: "imagem" },
+ { src: url + "cc03.jpg", alt: "imagem" },
+ { src: url + "cc04.jpg", alt: "imagem" },
+ { src: url + "cc05.jpg", alt: "imagem" },
+ { src: url + "cc06.jpg", alt: "imagem" },
+ { src: url + "cc07.jpg", alt: "imagem" },
+ { src: url + "cc08.jpg", alt: "imagem" },
+ { src: url + "cc09.jpg", alt: "imagem" },
+ { src: url + "cc10.jpg", alt: "imagem" },
+ { src: url + "cc11.jpg", alt: "imagem" },
+ { src: url + "cc12.jpg", alt: "imagem" },
+ { src: url + "cc13.jpg", alt: "imagem" },
+ { src: url + "cc14.jpg", alt: "imagem" },
+ { src: url + "cc15.jpg", alt: "imagem" },
+ { src: url + "cc16.jpg", alt: "imagem" },
+ { src: url + "cc17.jpg", alt: "imagem" },
+ { src: url + "cc18.jpg", alt: "imagem" },
+ { src: url + "cc19.jpg", alt: "imagem" },
+ { src: url + "cc20.jpg", alt: "imagem" },
+ { src: url + "cc21.jpg", alt: "imagem" },
+ { src: url + "cc22.jpg", alt: "imagem" },
+ { src: url + "cc23.jpg", alt: "imagem" },
+ { src: url + "cc24.jpg", alt: "imagem" },
+ { src: url + "cc25.jpg", alt: "imagem" },
+ { src: url + "cc26.jpg", alt: "imagem" },
+ { src: url + "cc27.jpg", alt: "imagem" },
+ { src: url + "cc28.jpg", alt: "imagem" },
+ { src: url + "cc29.jpg", alt: "imagem" },
+ { src: url + "cc30.jpg", alt: "imagem" },
 ];
 
 export default sexta;
