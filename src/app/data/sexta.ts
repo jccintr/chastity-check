@@ -1,4 +1,4 @@
-const url = 'https://brazdriver.app.br/chastity/31_10_25/';
+const url = 'https://brazdriver.app.br/chastity/01_11_25/';
 
 const sexta = [
  { src: url + "cc01.jpg", alt: "imagem" },
