@@ -8,6 +8,7 @@ const sexta = [
  { src: url + "cc05.jpg", alt: "imagem" },
  { src: url + "cc06.jpg", alt: "imagem" },
  { src: url + "cc07.jpg", alt: "imagem" },
+ { src: url + "cc07-2.jpg", alt: "imagem" },
  { src: url + "cc08.jpg", alt: "imagem" },
  { src: url + "cc09.jpg", alt: "imagem" },
  { src: url + "cc10.jpg", alt: "imagem" },
@@ -30,7 +31,7 @@ const sexta = [
  { src: url + "cc27.jpg", alt: "imagem" },
  { src: url + "cc28.jpg", alt: "imagem" },
  { src: url + "cc29.jpg", alt: "imagem" },
- { src: url + "cc30.jpg", alt: "imagem" },
+// { src: url + "cc30.jpg", alt: "imagem" },
 ];
 
 export default sexta;
