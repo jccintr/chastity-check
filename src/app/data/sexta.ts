@@ -30,7 +30,7 @@ const sexta = [
  { src: url + "cc26.jpg", alt: "imagem" },
  { src: url + "cc27.jpg", alt: "imagem" },
  { src: url + "cc28.jpg", alt: "imagem" },
- { src: url + "cc29.jpg", alt: "imagem" },
+ //{ src: url + "cc29.jpg", alt: "imagem" },
 // { src: url + "cc30.jpg", alt: "imagem" },
 ];
 
