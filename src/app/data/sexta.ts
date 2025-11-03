@@ -1,4 +1,4 @@
-const url = 'https://brazdriver.app.br/chastity/01_11_25/';
+const url = 'https://brazdriver.app.br/chastity/02_11_25/';
 
 const sexta = [
  { src: url + "cc01.jpg", alt: "imagem" },
@@ -8,7 +8,6 @@ const sexta = [
  { src: url + "cc05.jpg", alt: "imagem" },
  { src: url + "cc06.jpg", alt: "imagem" },
  { src: url + "cc07.jpg", alt: "imagem" },
- { src: url + "cc07-2.jpg", alt: "imagem" },
  { src: url + "cc08.jpg", alt: "imagem" },
  { src: url + "cc09.jpg", alt: "imagem" },
  { src: url + "cc10.jpg", alt: "imagem" },
@@ -30,7 +29,7 @@ const sexta = [
  { src: url + "cc26.jpg", alt: "imagem" },
  { src: url + "cc27.jpg", alt: "imagem" },
  { src: url + "cc28.jpg", alt: "imagem" },
- //{ src: url + "cc29.jpg", alt: "imagem" },
+ { src: url + "cc29.jpg", alt: "imagem" },
 // { src: url + "cc30.jpg", alt: "imagem" },
 ];
 

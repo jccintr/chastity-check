@@ -8,7 +8,7 @@ export const routes: Routes = [
     component: LayoutComponent,
     children:[
       {
-        path: '01_11_25',
+        path: '02_11_25',
         component: SextaComponent
       }
     ]
